@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/DeyonSebastian/github-readme-activity-graph"><img alt="Deyon Sebastian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeyonSebastian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DeyonSebastian"><img alt="Deyon Sebastian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeyonSebastian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
