@@ -1,6 +1,6 @@
 # Hi there, I'm Deyon 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iam_dyon)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Deyon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iam_dyon)
 
 
 ## I'm a Student and a Developer.
