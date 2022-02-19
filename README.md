@@ -68,6 +68,7 @@
 <a href = "https://www.linkedin.com/in/deyon-sebastian/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iam_dyon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iam.dyon"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "mailto:deyonsebastian2507@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/>
 
 </p>
 
