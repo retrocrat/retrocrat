@@ -39,15 +39,15 @@
 
 <p align="center">
     <a href="https://github.com/DeyonSebastian/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Deyon Sebastian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeyonSebastian&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Deyon Sebastian's streak 🔥" alt="Deyon Sebastian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeyonSebastian&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/DeyonSebastian/github-readme-stats"><img alt="Deyon Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeyonSebastian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/DeyonSebastian/github-readme-stats"><img alt="Deyon Sebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyonSebastian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img alt="Deyon Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeyonSebastian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href=""><img alt="Deyon Sebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyonSebastian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -70,7 +70,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="">
     <img src="https://komarev.com/ghpvc/?username=DeyonSebastian">
 </a>
 <a href="https://github.com/DeyonSebastian?tab=followers"><img src="https://img.shields.io/github/followers/DeyonSebastian?label=Followers&style=social" alt="GitHub Badge"></a>
