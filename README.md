@@ -70,7 +70,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="">
+<a href="https://github.com/DeyonSebastian">
     <img src="https://komarev.com/ghpvc/?username=DeyonSebastian">
 </a>
 <a href="https://github.com/DeyonSebastian?tab=followers"><img src="https://img.shields.io/github/followers/DeyonSebastian?label=Followers&style=social" alt="GitHub Badge"></a>
