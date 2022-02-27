@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.linkedin.com/in/deyon-sebastian)**
 
-- 📫 How to reach me **deyonsebastian2507@outlook.com**
+- 📫 Reach me : **deyonsebastian2507@outlook.com**
 
 - ⚡ Fun fact **I play games and read books.**
 
