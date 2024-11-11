@@ -28,7 +28,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/DeyonSebastian""><img alt="Deyon Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeyonSebastian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/DeyonSebastian""><img alt="Deyon Sebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=retrocrat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/DeyonSebastian""><img alt="Deyon Sebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyonSebastian&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/DeyonSebastian"><img alt="Deyon Sebastian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeyonSebastian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DeyonSebastian"><img alt="Deyon Sebastian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=retrocrat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -46,8 +46,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/deyon-sebastian/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iam_dyon"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iam.dyon"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/ideyonsebastian"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/ideyonsebastian"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:deyonsebastian2507@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/deyonh7.png" alt="TryHackMe">
 
